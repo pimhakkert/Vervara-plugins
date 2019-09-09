@@ -1,0 +1,8 @@
+name: VervaraFarming
+version: 1.0-SNAPSHOT
+main: redshadus.vervarafarming.Main
+api-version: 1.13
+commands:
+  getpumicestone:
+    description: This command gives the player pumice stone
+    usage: /getpumicestone

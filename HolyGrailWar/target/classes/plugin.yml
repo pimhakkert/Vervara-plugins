@@ -1,0 +1,11 @@
+name: VervaraHGW
+version: 1.0.1
+main: redshadus.vervarahgw.Main
+api-version: 1.13
+commands:
+  hgw:
+    description: Holy Grail Wars
+    usage: /hgw
+  hgwadmin:
+    description: Holy Grail Wars Admin
+    usage: /hgwadmin

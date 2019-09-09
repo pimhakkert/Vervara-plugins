@@ -1,0 +1,13 @@
+name: Vervarapvp
+version: 1.0
+main: redshadus.vervarapvp.Main
+api-version: 1.13
+loadbefore: [LuckPerms]
+depend: [VervaraHGW]
+commands:
+  pvp:
+    description: This command toggles pvp mode.
+    usage: /pvp help
+  pvpadmin:
+    description: This command does admin level pvp toggling
+    usage: /pvpadmin help

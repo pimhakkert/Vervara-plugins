@@ -1,0 +1,5 @@
+modifier: 1.25
+combatTeleport: true
+pvpModeTeleport: true
+Item-blacklist:
+PvpModeResourceTimer:
